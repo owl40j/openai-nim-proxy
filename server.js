@@ -32,7 +32,8 @@ const MODEL_MAPPING = {
   'kimi-k2-thinking' : 'moonshotai/kimi-k2-thinking',
   'deep-seek' : 'deepseek-ai/deepseek-v3.1-terminus',
   'deepseek-3.2' : 'deepseek-ai/deepseek-v3.2',
-  'glm-4.7' : 'z-ai/glm-4.7'
+  'glm-4.7' : 'z-ai/glm-4.7',
+  'stepfun' : 'stepfun-ai/step-3.5-flash'
 };
 
 // Health check endpoint
