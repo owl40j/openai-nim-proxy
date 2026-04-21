@@ -35,8 +35,8 @@ const MODEL_MAPPING = {
   'glm-4.7' : 'z-ai/glm-4.7',
   'stepfun' : 'stepfun-ai/step-3.5-flash',
   'llama3.1-405b' : 'meta/llama-3.1-405b-instruct',
-  'llama3.3-70b' : 'meta/llama-3.3-70b-instruct'
-
+  'llama3.3-70b' : 'meta/llama-3.3-70b-instruct',
+  'glm5.1' : 'z-ai/glm-5.1'
 };
 
 // Health check endpoint
