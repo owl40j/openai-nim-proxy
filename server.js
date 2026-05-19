@@ -37,7 +37,9 @@ const MODEL_MAPPING = {
   'llama3.1-405b' : 'meta/llama-3.1-405b-instruct',
   'llama3.3-70b' : 'meta/llama-3.3-70b-instruct',
   'glm5.1' : 'z-ai/glm-5.1',
-  'deepseek4' : 'deepseek-ai/deepseek-v4-pro'
+  'deepseek4pro' : 'deepseek-ai/deepseek-v4-pro',
+  'deepseek4flash' : 'deepseek-ai/deepseek-v4-flash',
+  'mistral' : 'mistralai/mistral-medium-3.5-128b'
 };
 
 // Health check endpoint
