@@ -39,7 +39,8 @@ const MODEL_MAPPING = {
   'glm5.1' : 'z-ai/glm-5.1',
   'deepseek4pro' : 'deepseek-ai/deepseek-v4-pro',
   'deepseek4flash' : 'deepseek-ai/deepseek-v4-flash',
-  'mistral' : 'mistralai/mistral-medium-3.5-128b'
+  'mistral' : 'mistralai/mistral-medium-3.5-128b',
+  'stepfun3.7' : 'stepfun-ai/step-3.7-flash'
 };
 
 // Health check endpoint
